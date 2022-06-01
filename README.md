@@ -1,2 +1,2 @@
 # Project-2-Draft
-This is the rough draft of my project about tumor suppressors and their sequence identity as that related to the treatment of mutations within tumor suppressors. 
+This is the rough draft of my project about tumor suppressors and their sequence identity as that related to the treatment of mutations within tumor suppressors. All the fasta files are the protein sequences of the tumor suppressors of interest and I am using p53 as my main gene of interest and comparing it to other tumor suppressors. The Project2.RMD is the R-notebook version of my project 2 draft which can be changed while the Project2.html is the web-browsing version for viewing purposes.   
